@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Home page of The Apache Software Foundation">
+  
+  <link rel="apple-touch-icon" sizes="57x57" href="/favicons/apple-touch-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/favicons/apple-touch-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/favicons/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/favicons/apple-touch-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/favicons/apple-touch-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/favicons/apple-touch-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/favicons/apple-touch-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/favicons/apple-touch-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon-180x180.png">
+  <link rel="icon" type="image/png" href="/favicons/favicon-32x32.png" sizes="32x32">
+  <link rel="icon" type="image/png" href="/favicons/favicon-194x194.png" sizes="194x194">
+  <link rel="icon" type="image/png" href="/favicons/favicon-96x96.png" sizes="96x96">
+  <link rel="icon" type="image/png" href="/favicons/android-chrome-192x192.png" sizes="192x192">
+  <link rel="icon" type="image/png" href="/favicons/favicon-16x16.png" sizes="16x16">
+  <link rel="manifest" href="/favicons/manifest.json">
+  <link rel="shortcut icon" href="/favicons/favicon.ico">
+  <meta name="msapplication-TileColor" content="#603cba">
+  <meta name="msapplication-TileImage" content="/favicons/mstile-144x144.png">
+  <meta name="msapplication-config" content="/favicons/browserconfig.xml">
+  <meta name="theme-color" content="#282661">
+
+  <title>Welcome to The Apache Software Foundation!</title>
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:300,600" rel="stylesheet">
+  <link href="/css/min.bootstrap.css" rel="stylesheet">
+  <link href="/css/styles.css" rel="stylesheet">
+  
+
+  
+
+</head>
+
+<body id="home">
+  <!-- Navigation -->
+  <header>
+    <nav class="navbar navbar-inverse navbar-fixed-top mainmenu">
+      <div class="container">
+        <div class="navbar-header">
+          <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#mainnav-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+        <div class="collapse navbar-collapse" id="mainnav-collapse">
+          <ul class="nav navbar-nav navbar-justified">
+            <li>
+              <form class="visible-xs">
+                <div class="input-group" style="width: 100%;">
+                  <script>
+                    (function() {
+                    var cx = '005703438322411770421:5mgshgrgx2u';
+                    var gcse = document.createElement('script');
+                    gcse.type = 'text/javascript';
+                    gcse.async = true;
+                    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+                    '//cse.google.com/cse.js?cx=' + cx;
+                    var s = document.getElementsByTagName('script')[0];
+                    s.parentNode.insertBefore(gcse, s);
+                    })();
+                  </script>
+                  <gcse:searchbox-only></gcse:searchbox-only>
+                </div>
+              </form>
+            </li>
+            <li><a href="/index.html#news">News</a></li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">About&nbsp;<span class="caret"></span></a>
+              <ul class="dropdown-menu" role="menu">
+                <li><a href="/foundation">Overview</a></li>
+                <li><a href="/foundation/how-it-works.html">Process</a></li>
+                <li><a href="/foundation/governance/">Governance</a></li>
+                <li><a href="/theapacheway/index.html">The Apache Way</a></li>
+                <li><a href="/foundation/governance/members.html">Membership</a></li>
+                <li><a href="https://community.apache.org/">Community</a></li>
+                <li><a href="https://diversity.apache.org/">Diversity & Inclusion</a></li>
+                <li><a href="/foundation/policies/conduct">Code of Conduct</a></li>
+                <li><a href="/foundation/glossary.html">Glossary</a></li>
+                <li><a href="/foundation/preFAQ.html">FAQ</a></li>
+                <li><a href="/foundation/contributing.html">Support Apache</a></li>
+                <li><a href="/press/">Media/Analysts</a></li>
+                <li><a href="/foundation/contact.html">Contact</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Make a Donation&nbsp;<span class="caret"></span></a>
+              <ul class="dropdown-menu" role="menu">
+                <li><a href="/foundation/contributing.html">Donate Now</a></li>
+                <li><a href="https://donate.apache.org/">&nbsp;&nbsp;Via Credit Card</a></li>
+                <li><a href="https://donate.apache.org/">&nbsp;&nbsp;Via ACH</a></li>
+                <li><a href="https://donate.apache.org/">&nbsp;&nbsp;Via PayPal</a></li>
+                <li><a href="/foundation/contributing.html#Bitcoin">&nbsp;&nbsp;Using Bitcoin</a></li>
+                <li><a href="https://www.redbubble.com/people/comdev">Buy Swag</a></li>
+                <li><a href="https://smile.amazon.com/gp/chpf/homepage/ref=smi_se_scyc_srch_stsr?q=apache+software+foundation&orig=%2F">Shop smile.amazon.com</a></li>
+                <li><a href="/foundation/sponsorship.html">ASF Sponsorship</a></li>
+                <li><a href="/foundation/thanks#targeted-sponsors">Targeted Sponsorship</a></li>
+                <li><a href="/foundation/contributing.html#CorporateGiving">Corporate Giving</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdopwn-toggle" data-toggle="dropdown">The Apache Way&nbsp;<span class="caret"></span></a>
+              <ul class="dropdown-menu" role="menu">
+                <li><a href="/theapacheway/index.html">The Apache Way</a></li>
+                <li><a href="https://s.apache.org/GhnI">Sustainable Open Source</a></li>
+                <li><a href="/foundation/how-it-works.html">How it Works</a></li>
+                <li><a href="/foundation/how-it-works.html#meritocracy">Merit</a></li>
+                <li><a href="https://blogs.apache.org/foundation/category/SuccessAtApache">Success at Apache</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdopwn-toggle" data-toggle="dropdown">Join Us&nbsp;<span class="caret"></span></a>
+              <ul class="dropdown-menu" role="menu">
+                <li><a href="https://community.apache.org/gettingStarted/101.html">Getting Started</a></li>
+                <li><a href="https://helpwanted.apache.org/">Help Wanted</a></li>
+                <li><a href="https://www.apachecon.com/">ApacheCon</a></li>
+                <li><a href="http://community.apache.org/calendars/">Community Events</a></li>
+                <li><a href="/travel/">Travel Assistance</a></li>
+                <li><a href="https://community.apache.org/gsoc.html">Summer of Code</a></li>
+                <li><a href="/foundation/policies/conduct">Code of Conduct</a></li>
+                <li><a href="https://community.apache.org/contributors/etiquette">Etiquette</a></li>
+      
